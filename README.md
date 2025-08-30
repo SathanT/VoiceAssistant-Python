@@ -10,15 +10,6 @@ A Python-based AI Voice Assistant that uses **speech recognition**, **text-to-sp
 - 🤖 AI-powered replies with **Google Generative AI (Gemini)**  
 - ⚡ Continuous listening loop for hands-free interaction  
 
----
-
-## 📂 Project Structure
-```
-VoiceAssistant-Python/
-│── main.py               # Main script
-│── requirements.txt      # Python dependencies
-│── README.md             # Project documentation
-│── .gitignore            # Prevents API keys & cache from uploading
 ```
 
 ---
@@ -89,6 +80,3 @@ Assistant: Python is a versatile high-level programming language known for its r
 - [google-generativeai](https://ai.google.dev/) – AI-powered responses (Gemini)  
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
